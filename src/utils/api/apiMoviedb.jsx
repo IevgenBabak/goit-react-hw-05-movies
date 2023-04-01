@@ -11,7 +11,7 @@ export const getTrending = async () => {
       title,
     };
   });
-};
+}; 
 
 export const searchMovies = async inputValue => {
   const response = await axios.get(
