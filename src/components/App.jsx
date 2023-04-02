@@ -9,6 +9,8 @@ const NotFound = lazy(() => import('../pages/NotFound'));
 const Cast = lazy(() => import('./Cast/Cast'));
 const Reviews = lazy(() => import('./Reviews/Reviews'));
 
+
+
 export const App = () => {
   return (
     <Routes>
@@ -22,5 +24,5 @@ export const App = () => {
       </Route>
       <Route path="*" element={<NotFound />} />
     </Routes>
-  );
+        );
 };

@@ -1,0 +1,24 @@
+.formName {
+  margin: 20px auto;
+  align-items: center;
+  font-size: large;
+  text-align: left;
+  padding: 8px 240px 8px 16px;
+}
+.formName:hover {
+  background-color: #eff0f3;
+  cursor: pointer;
+}
+
+.btnName  {
+ margin: 20px auto;
+ align-items: center;
+ font-size: large;
+ text-align: left;
+ padding: 8px 20px;
+ }
+
+ .btnName:hover {
+     background-color: #bbc1dc;
+     cursor: pointer;
+ }
