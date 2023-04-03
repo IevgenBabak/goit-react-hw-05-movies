@@ -6,7 +6,7 @@ export const Loader = () => (
     <Bars
   height="80"
   width="80"
-  color="#4fa94d"
+  color="#cc0000"
   ariaLabel="bars-loading"
   wrapperStyle={{}}
   wrapperClass=""

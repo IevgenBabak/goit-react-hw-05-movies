@@ -1,4 +1,3 @@
-// import { useSearchMovies } from 'utils/hooks/useSearchMovies';
 import { useSearchParams } from 'react-router-dom';
 import * as API from '../../utils/api/apiMoviedb';
 import { useEffect, useState } from 'react';
